@@ -1,0 +1,3 @@
+##  Numeric Integer Values are...
+
+<img src="images/numeric-values-are.PNG">
